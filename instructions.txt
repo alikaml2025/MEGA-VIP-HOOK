@@ -1,0 +1,11 @@
+1= you will need to install Android Studio latest version
+
+Download and install it, it will take some time....
+when installed,open it and follow me
+install it, it will also take some time and space
+2= install ndk from android studio
+3= give right path of ndk in compile.bat file
+4= change output lib file name
+5= change and update log Tag
+
+---Remaining in next video-----
